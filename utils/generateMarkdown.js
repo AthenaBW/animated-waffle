@@ -51,6 +51,7 @@ ${licenseLink}
 }
 
 // Function to generate markdown for README, taking in the data object 
+// "Render license section" called to generate section for license 
 
 function generateMarkdown(data) {
   return `
@@ -58,15 +59,12 @@ function generateMarkdown(data) {
   # ${data.title}
   ## Description
   ${data.description}
-  ## Deployed Application URL
-  ${data.link}
-  ## Screenshot
-  ![alt-text](${data.screenshot})
+ 
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Credits](#credits)
+  * [Contributing](#contributing)
   * [Test](#test)
   * [Questions](#questions)
   
