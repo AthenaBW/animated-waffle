@@ -39,6 +39,7 @@ function promptUser() {
     {
       type: "input",
       name: "questions",
+      message: "Any Questions or concerns press enter"
 
     },
 
