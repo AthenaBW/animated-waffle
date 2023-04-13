@@ -2,8 +2,8 @@
   ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
   # ReadMe Generator
   ## Description
-  this readme generator was made using nodejs and inquirer through the terminal
- 
+  This readme generator was made using nodejs and inquirer through the terminal.
+ ![Alt text](dist/ss.png)
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -13,7 +13,7 @@
   * [Questions](#questions)
   
   ## Installation
-  open folder in terminal, run node index.js and then continue to follow the prompts
+  open working folder in terminal, run node index.js and then continue to follow the prompts
   ## Usage 
   Inquirer 8.2.4
   ## Contributing
